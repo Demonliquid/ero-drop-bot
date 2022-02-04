@@ -2,13 +2,18 @@
 
 DONE:
 1- Se inicia desde scrape-bscan: va a generar csv con los holders de token y las colecciones de NFT.
+
 2- Sigue rarity_lookup: Le asigna una lista de item_ids a los usuarios con Collection 1 y 2
-?-  
+
+?-
+
 4- Accountant: Une y limpia las tablas
 
 TODO:
 3- Dividir la columna item_ids en rarity
+
 5- Calcular los multipliers de multipliers.py sobre la tabla completa.
+
 Ultimo_paso - adaptar web3 para interactuar con un contrato
 
 PROBLEMAS:
